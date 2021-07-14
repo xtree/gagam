@@ -1,1 +1,2 @@
 cherrypy==18.6.1
+psycopg2==2.9.1
